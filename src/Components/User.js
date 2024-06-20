@@ -57,7 +57,7 @@ export default function User(props) {
                   </tr>
                   <tr>
                     <th className='p-2 md:p-4 text-right'>Bio:</th>
-                    <td className='p-2 md:p-4'>{user.bio}</td>
+                    <td className='p-2 md:p-4'>{user.Bio}</td>
                   </tr>
                   <tr>
                     <th className='p-2 md:p-4 text-right'>Created At:</th>
